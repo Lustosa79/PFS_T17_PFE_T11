@@ -1,7 +1,2 @@
 Início do login
-<<<<<<< HEAD
-fim do login
-finalização do cadastro de login
-=======
-finalização do login
->>>>>>> login
+Tentando terminar o login
