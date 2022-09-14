@@ -1,3 +1,7 @@
 Início do login
 Tentando terminar o login
+<<<<<<< HEAD
 conclusão do login
+=======
+concluindo o login
+>>>>>>> login2
